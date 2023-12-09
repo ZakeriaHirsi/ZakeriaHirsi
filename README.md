@@ -4,7 +4,7 @@
 
 - 💼 I am primarily a backend engineer who specializes in C# but also like to dabble in a few frontend technologies from time to time such as React and Vue
 - 🔭 I’m currently working on a personal website where I plan to showcase my portofolio, photography and other random stuff that comes to mind.
-
+- 🌱 I’m currently learning kubernetes and preparing to take the Certified Kubernetes Application Developer exam
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | Java | JavaScript
