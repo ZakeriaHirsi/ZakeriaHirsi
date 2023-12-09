@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Zakeria Hirsi 👋
-<img width="300" src="https://github.com/ZakeriaHirsi/ZakeriaHirsi/assets/26385570/0dc3dd62-1a02-4db0-b556-9de5efd79d12" align="right"/>
+<img width="400" src="https://github.com/ZakeriaHirsi/ZakeriaHirsi/assets/26385570/0dc3dd62-1a02-4db0-b556-9de5efd79d12" align="right"/>
 
 - 💼 I am primarily a backend engineer who specializes in C# but also like to dabble in a few frontend technologies from time to time such as React and Vue
 - 🔭 I’m currently working on a personal website where I plan to showcase my portofolio, photography and other random stuff that comes to mind.
