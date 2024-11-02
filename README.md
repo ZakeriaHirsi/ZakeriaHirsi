@@ -16,7 +16,7 @@
 <br/>
 🛢  &nbsp; MSSQL | CosmosDb
 <br/>
-🔧 &nbsp; Visual Studio | VSCode | Git | SVN
+🔧 &nbsp; Visual Studio | VSCode | Git 
 <br/>
 ☁️ &nbsp; Azure | Kubernetes
 <!--
