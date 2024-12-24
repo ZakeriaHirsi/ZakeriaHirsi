@@ -10,7 +10,7 @@
 <br/>
 <h3>🛠 Tech Stack</h3>
 
-💻 &nbsp; C# | Java | JavaScript
+💻 &nbsp; C# | Java | JavaScript | Go
 <br/>
 🌐 &nbsp; HTML | CSS | React | Vue 
 <br/>
