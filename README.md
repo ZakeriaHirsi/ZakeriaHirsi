@@ -6,7 +6,7 @@
 <br/>
 🔭 Currently working on a personal website where I plan to showcase my portofolio, photography and other random stuff that comes to mind.
 <br/>
-🌱 Developing a personal investment manager to manage balances, pensions, investments. Using it as an opportunity to learn Rust and Angular.
+🌱 Developing a personal investment manager to manage balances, pensions, investments. Using it as an opportunity to learn Go and AWS.
 <br/>
 <h3>🛠 Tech Stack</h3>
 
